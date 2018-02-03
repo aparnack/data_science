@@ -1,5 +1,5 @@
 This folder contains documents related to my Springboard Data Science Workshop's Capstone project. 
-If you are not familiar with springboard, please visit <https://www.springboard.com/>
+
 There can be following documents and more:
 1. 3 Capstone Project Ideas
 2. Capstone Project initial proposal
