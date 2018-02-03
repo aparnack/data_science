@@ -12,3 +12,4 @@ This folder is exclusively for the Capstone project done with the guidance of me
 + He acts like a hypothetical client, (who is never happy!, ah, just kidding. Mine is too nice) hence we work as a simulated data scientist role
 + Learning right the first time definitely is an efficient way to learn and helps to retain the learnings.
 + The proof for all of these points is apparent in the work (to be checked in soon).
++ The experience of having worked with a very senior data scientist already is definitely going to take me a long way in the first job. It partially compensate for lack of prior experience in data science industry.
