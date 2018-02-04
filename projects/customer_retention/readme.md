@@ -12,6 +12,13 @@ Project Title: Customer Retention by Providing Right Incentives to Right People
 + This has Data Wrangling and EDA completed. 
 + Basic ML models are in place.
 + Models are evaluated wrt accuracy, recall and ROC curve and Area under ROC.
-+  Many more things like Cross Validation need to be added.
++ Many more things like Cross Validation need to be added.
 
 --This is "work in progress" as of 02/02/2018.--
+
+
+# V1: 02/04/2018
++ The project is done for now. 
++ Recommendations and scope for future work is completed.
+
+--This is a project open for feedback (mailto:aparnack@gmail.com) by viewers, as of 02/04/2018--
