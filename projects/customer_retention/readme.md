@@ -21,4 +21,9 @@ Project Title: Customer Retention by Providing Right Incentives to Right People
 + The project is done for now. 
 + Recommendations and scope for future work is completed.
 
+# V1.1: 02/07/2018
++ The project was re-opened because realized a mistake while doing documentation 
++ The mistake was in interpretation of a feature variable, since no metadata was available with dataset.
++ It is corrected, a few more changes are made due to that.
+
 --This is a project open for feedback (mailto:aparnack@gmail.com) by viewers, as of 02/04/2018--
