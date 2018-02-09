@@ -1,7 +1,7 @@
 README
 =======
 
-Project Title: Customer Retention by Providing Right Incentives to Right People
+Project Title: Customer Retention By Allocating Resources Wisely
 ---------------
 
 # V0: 02/02/2018
