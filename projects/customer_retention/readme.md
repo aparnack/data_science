@@ -32,3 +32,5 @@ Project Title: Customer Retention by Providing Right Incentives to Right People
 + Got much addicted to it, it was a good learning experience.
 
 --This is a project open for feedback (mailto:aparnack@gmail.com) by viewers, as of 02/04/2018--
+
+Important Note: This particular project is not a part of any MOOC/Bootcamp requirement. I took it up on my own and referred multiple resources to complete it.
