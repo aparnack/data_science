@@ -26,4 +26,9 @@ Project Title: Customer Retention by Providing Right Incentives to Right People
 + The mistake was in interpretation of a feature variable, since no metadata was available with dataset.
 + It is corrected, a few more changes are made due to that.
 
+# V1.2: 02/08/2018
++ Found the need for more clarity while doing the slide deck
++ Revisited and added some code.
++ Got much addicted to it, it was a good learning experience.
+
 --This is a project open for feedback (mailto:aparnack@gmail.com) by viewers, as of 02/04/2018--
