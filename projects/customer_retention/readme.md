@@ -1,8 +1,13 @@
-README
-=======
 
-Project Title: Customer Retention By Allocating Resources Wisely
+
+Project Title: Customer Retention By Being Proactive
 ---------------
+
+If you are interested more in the results, or have limited time, please click on [slide deck](https://github.com/aparnack/data_science/blob/master/projects/customer_retention/Customer%20Retention_SlideDeck.pdf)
+
+If you have a little more time, I request you to go through the [iPython notebook](https://github.com/aparnack/data_science/blob/master/projects/customer_retention/Retention.ipynb) to see if it interests you.
+
+**Version History**
 
 # V0: 02/02/2018
 
