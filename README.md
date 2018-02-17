@@ -15,7 +15,7 @@ Machine Learning Examples:
 Inferential Statistics Examples:
 
 - [Is Human Body Temperature 98.6 and more questions answered!](https://github.com/aparnack/data_science/tree/master/exercises/human_temp)
-- [Does US Job Market discriminates based on Race?](https://github.com/aparnack/data_science/tree/master/exercises/racial_disc)
+- [Does US Job Market discriminate based on Race?](https://github.com/aparnack/data_science/tree/master/exercises/racial_disc)
 - [Hospital Readmit Analysis and conclusions](https://github.com/aparnack/data_science/tree/master/exercises/hospital_readmit)
 
 Exploratory Data Analysis Examples:
