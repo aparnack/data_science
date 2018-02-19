@@ -1,0 +1,129 @@
+---
+title: "Fitting Linear Regression Model for Boston Housing Data"
+output: html_notebook
+---
+
+This Notebook is done in R to try out the fundamentals of Linear Regression learnt.
+
+
+[Reference:](https://blog.rstudio.com/2016/10/05/r-notebooks)
+
+```{r}
+library(MASS)
+library(ISLR)
+```
+```{r}
+names(Boston)
+```
+
+```{r}
+attach(Boston)
+lm.fit=lm(medv~lstat)
+```
+
+```{r}
+summary(lm.fit)
+```
+
+```{r}
+names(lm.fit)
+```
+
+```{r}
+confint(lm.fit)
+```
+
+```{r}
+predict (lm.fit ,data.frame(lstat=c(5 ,10 ,15) ),interval ="confidence")
+```
+
+```{r}
+predict (lm.fit ,data.frame(lstat=c(5 ,10 ,15) ),interval ="prediction")
+```
+
+```{r}
+plot(lstat ,medv)
+abline(lm.fit,col="red")
+```
+
+```{r}
+plot(predict (lm.fit), residuals (lm.fit),col="green")
+```
+
+```{r}
+plot(predict (lm.fit), rstudent(lm.fit),col="yellow")
+```
+
+```{r}
+# Identifies highest leverage point 
+which.max(hatvalues(lm.fit))
+```
+
+```{r}
+plot(hatvalues(lm.fit),col="red")
+```
+
+```{r}
+# Multiple Regression
+lm_multi.fit=lm(medv~crim+rm+ptratio,data=Boston)
+summary(lm_multi.fit)
+```
+
+```{r}
+lm_all.fit =lm(medv∼.,data=Boston )
+summary(lm_all.fit)
+```
+```{r}
+plot(predict(lm_all.fit), residuals(lm_all.fit),col="green")
+```
+```{r}
+?summary.lm
+```
+
+```{r}
+library(car)
+```
+
+```{r}
+vif(lm_all.fit)
+```
+
+```{r}
+# Removing one variable from the regression using update
+lm.fit1 = update(lm_all.fit,~.-rm)
+```
+
+```{r}
+summary(lm.fit1)
+```
+
+```{r}
+# Interaction Terms
+lm_inter = lm(medv∼.+lstat*age,data=Boston)
+summary(lm_inter)
+```
+
+```{r}
+# Non-linearity terms
+lm_nonlin = lm(medv∼.+I(rm^2),data=Boston)
+summary(lm_nonlin)
+```
+Note how adjusted R^2 increased from 0.7338 to 0.7978 and RSE reduced from 4.745 to 4.136 compared to lm_all. Let us plot residuals
+```{r}
+# Plotting residuals
+plot(predict(lm_nonlin),residuals(lm_nonlin),col="red")
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+```{r}
+# Using anova function
+anova(lm_all.fit,lm_nonlin)
+```
+
+```{r}
+# Demonstrating poly function. 
+lm.fit4=lm(medv∼.+poly(lstat ,4),data=Boston)
+summary(lm.fit4)
+```
+
+Notes: This is initial model. Tried with the help of ISLR book's R Lab section in chapter 3. 
