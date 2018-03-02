@@ -30,9 +30,9 @@ In addition,
 + My Writings: 
   - [Art of Learning Data Science](https://www.kdnuggets.com/2018/01/art-learning-data-science.html) , 
   - [Doing Part of Data Science](https://www.kdnuggets.com/2018/02/doing-part-learning-data-science.html), 
-  - [Real Data Science Project Ideas: My Approach] https://lnkd.in/gKXakUE)
-  - [Data Story Asking](https://www.linkedin.com/pulse/data-story-asking-inevitable-component-science-aparna-c-shastry/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bpcn9sy4xS3SDcPu5BHFYHA%3D%3D)
-+ [Study Notes]https://github.com/aparnack/data_science/tree/master/study_notes)
+  - [Real Data Science Project Ideas: My Approach](https://lnkd.in/gKXakUE),
+  - [Data Story Asking](https://www.linkedin.com/pulse/data-story-asking-inevitable-component-science-aparna-c-shastry/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bpcn9sy4xS3SDcPu5BHFYHA%3D%3D),
++ [Study Notes](https://github.com/aparnack/data_science/tree/master/study_notes)
 
 I appreciate feedback and comments, please contact me by writing to aparnack@gmail.com
 Are you a recruiter/hiring manager, like to know more about me? [My LinkedIn profile](https://www.linkedin.com/in/aparnacshastry/)
