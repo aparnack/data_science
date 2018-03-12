@@ -4,7 +4,6 @@ This repository is all about Data Science/Machine Learning.
 
 Projects:
 - [Customer Retention](https://github.com/aparnack/data_science/tree/master/projects/customer_retention) - Slide Deck of finished work, the first project done on my own on a small dataset
-- [Predicting Building Permit Issue Times](https://github.com/aparnack/data_science/blob/master/projects/springboard_capstone/documents/ProjectReport_BuildingPermit.pdf) - Milestone report of Building permit project
 
 Machine Learning Examples:
 
