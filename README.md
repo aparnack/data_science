@@ -3,7 +3,8 @@
 This repository is all about Data Science/Machine Learning. 
 
 Projects:
-- [Customer Retention](https://github.com/aparnack/data_science/tree/master/projects/customer_retention) - Slide Deck of finished work, the first project done on my own on a small dataset
+- [Customer Retention](https://github.com/aparnack/data_science/tree/master/projects/customer_retention)  - Telecom company data set
+- [Predicting Building Permit Issue Times](https://github.com/aparnack/data_science/tree/master/projects/springboard_capstone/documents/BuildingPermitIssueTime_SlideDeck.pdf) - Real world data set
 
 Machine Learning Examples:
 
@@ -33,5 +34,5 @@ In addition,
   - [Data Story Asking](https://www.linkedin.com/pulse/data-story-asking-inevitable-component-science-aparna-c-shastry/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bpcn9sy4xS3SDcPu5BHFYHA%3D%3D),
 + [Study Notes](https://github.com/aparnack/data_science/tree/master/study_notes)
 
-I appreciate feedback and comments, please contact me by writing to aparnack@gmail.com
+I appreciate feedback and comments, please contact me by writing to aparnashastrymls@gmail.com
 Are you a recruiter/hiring manager, like to know more about me? [My LinkedIn profile](https://www.linkedin.com/in/aparnacshastry/)
