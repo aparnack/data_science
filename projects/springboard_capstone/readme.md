@@ -11,7 +11,7 @@ Links:
 + [Project Ideas](https://github.com/aparnack/data_science/blob/master/projects/springboard_capstone/documents/Project_Ideas.pdf)
 + [Project Proposal](https://github.com/aparnack/data_science/blob/master/projects/springboard_capstone/documents/ProjectProposal_BuildingPermit.pdf)
 + [Detailed Report](https://github.com/aparnack/data_science/blob/master/projects/springboard_capstone/documents/ProjectReport_BuildingPermit.pdf)
-+ [Slide Deck](https://github.com/aparnack/data_science/blob/master/projects/springboard_capstone/documents/BuildingPermitIssueTime_SlideDeck.pdf)
++ [Slides](https://github.com/aparnack/data_science/blob/master/projects/springboard_capstone/documents/BuildingPermitIssueTime_ExecutiveSlides.pdf)
 
 --- Code ----
 + [Introduction and Data Wrangling](https://github.com/aparnack/data_science/blob/master/projects/springboard_capstone/code/BuildingPermitDataWrangling.ipynb)
@@ -20,6 +20,7 @@ Links:
    
 --- Data ----
 + [San Francisco city Building Permit Application Details](https://github.com/aparnack/data_science/blob/master/projects/springboard_capstone/data/Building_Permits.zip)
++ [Kaggle Link](https://www.kaggle.com/aparnashastry/building-permit-applications-data) - Submitted this dataset and problem definition to Kaggle.
 
 ------------------------------
 Version History
