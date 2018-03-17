@@ -16,7 +16,7 @@ Links:
 --- Code ----
 + [Introduction and Data Wrangling](https://github.com/aparnack/data_science/blob/master/projects/springboard_capstone/code/BuildingPermitDataWrangling.ipynb)
 + [Exploratory Data Analysis and Inferential Statistics](https://github.com/aparnack/data_science/blob/master/projects/springboard_capstone/code/BuildingPermit-EDA.ipynb)
-+ Modeling and Conclusions
++ [Modeling and Conclusions](https://github.com/aparnack/data_science/blob/master/projects/springboard_capstone/code/BuildingPermitSFOModeling.ipynb)
    
 --- Data ----
 + [San Francisco city Building Permit Application Details](https://github.com/aparnack/data_science/blob/master/projects/springboard_capstone/data/Building_Permits.zip)
@@ -32,5 +32,7 @@ Date: Feb 25th, 2018
 + V1.0: Initial Release for review by the springboard community        
 Date: March 4th/5th, 2018
 
++ V1.1  Modeling added, Executive slides updated
+Date: March 16th, 2018
 
 Please provide feedback.
