@@ -20,7 +20,10 @@ Links:
    
 --- Data ----
 + [San Francisco city Building Permit Application Details](https://github.com/aparnack/data_science/blob/master/projects/springboard_capstone/data/Building_Permits.zip)
-+ [Kaggle Link](https://www.kaggle.com/aparnashastry/building-permit-applications-data) - Submitted this dataset and problem definition to Kaggle.
+
+Important instruction: If you want to download and run, please unzip the data before running. 
+
+Note: This dataset is uploaded into [Kaggle](https://www.kaggle.com/aparnashastry/building-permit-applications-data) - Submitted this dataset and problem definition to Kaggle.
 
 ------------------------------
 Version History
