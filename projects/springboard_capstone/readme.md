@@ -8,7 +8,7 @@ A commit is considered a release if there was an important milestone in terms of
 1. You will have to clone or download the entire data_science repository into your local folder and unzip    
 2. Go to the  data_science-master/projects/springboard_capstone/data and unzip the Building_Permits.csv file     
 3. It might be unzipped into Building_Permits folder. Copy it one level up, to data_science-master/projects/springboard_capstone/data folder      
-4. Now the project is ready to be run. Please run it in the order mentioned below in the list of code     
+4. Now the project is ready to be run. Please run it in the order mentioned under "---code---". Otherwise it will throw errors. 
 
 
 ## Project Title: Predicting Building Permit Issuance Times
@@ -42,5 +42,8 @@ Date: March 4th/5th, 2018
 
 + V1.1  Modeling added, Executive slides updated
 Date: March 16th, 2018
+
++ V2.0 Final Release of Code, Data and Documents for Completion
+Date: March 24th, 2018
 
 Please provide feedback.
