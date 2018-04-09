@@ -32,6 +32,7 @@ In addition,
   - [Doing Part of Data Science](https://www.kdnuggets.com/2018/02/doing-part-learning-data-science.html), 
   - [Real Data Science Project Ideas: My Approach](https://lnkd.in/gKXakUE),
   - [Data Story Asking](https://www.linkedin.com/pulse/data-story-asking-inevitable-component-science-aparna-c-shastry/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bpcn9sy4xS3SDcPu5BHFYHA%3D%3D),
+  - [Inferential Statistics Basics Part 1](https://towardsdatascience.com/https-medium-com-aparnack-what-can-a-small-sample-teach-us-about-a-big-population-part-1-b7c048c22bf2)
 + [Study Notes](https://github.com/aparnack/data_science/tree/master/study_notes)
 + [Detailed Project Report Example](https://github.com/aparnack/data_science/blob/master/projects/springboard_capstone/documents/ProjectReport_BuildingPermit.pdf)
 
