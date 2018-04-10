@@ -3,8 +3,8 @@
 This repository is all about Data Science/Machine Learning. 
 
 Projects:
-- [Customer Retention](https://github.com/aparnack/data_science/tree/master/projects/customer_retention)  - Telecom company data set
-- [Predicting Building Permit Issue Times](https://github.com/aparnack/data_science/tree/master/projects/springboard_capstone/documents/BuildingPermitIssueTime_SlideDeck.pdf) - Real world data set
+- [Customer Retention](https://github.com/aparnack/data_science/blob/master/projects/customer_retention/CustomerRetention_ExecutiveSlides.pdf)  - Telecom company data set
+- [Predicting Building Permit Issue Times](https://github.com/aparnack/data_science/blob/master/projects/springboard_capstone/documents/BuildingPermitIssueTime_ExecutiveSlides.pdf) - Real world data set
 
 Machine Learning Examples:
 
@@ -23,7 +23,7 @@ Inferential Statistics Examples:
 Exploratory Data Analysis Examples:
 
 - [World Bank Projects: JSON file](https://github.com/aparnack/data_science/tree/master/exercises/data_wrangling_json)
-- [MonDial: XML File](https://github.com/aparnack/data_science/tree/master/exercises/data_wrangling_xml)
+- [Mondial: XML File](https://github.com/aparnack/data_science/tree/master/exercises/data_wrangling_xml)
 
 In addition, 
 
