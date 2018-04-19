@@ -3,16 +3,16 @@
 This repository is all about Data Science/Machine Learning. 
 
 Projects:
-- [Customer Retention](https://github.com/aparnack/data_science/blob/master/projects/customer_retention/CustomerRetention_ExecutiveSlides.pdf)  - Telecom company data set
-- [Predicting Building Permit Issue Times](https://github.com/aparnack/data_science/blob/master/projects/springboard_capstone/documents/BuildingPermitIssueTime_ExecutiveSlides.pdf) - Real world data set
+- [Why are the customers switching and how to proactively retain them?](https://github.com/aparnack/data_science/blob/master/projects/customer_retention/CustomerRetention_ExecutiveSlides.pdf)  - Telecom company data set
+- [Can we help San Francisco builders by predicting approximate building Permit Issue Times?](https://github.com/aparnack/data_science/blob/master/projects/springboard_capstone/documents/BuildingPermitIssueTime_ExecutiveSlides.pdf) - Real world data set
 
 Machine Learning Examples:
 
-- [Boston Housing Price Prediction: Linear Regression](https://github.com/aparnack/data_science/tree/master/exercises/linear_regression)
-- [Gender Guessing: Logistic Regression](https://github.com/aparnack/data_science/tree/master/exercises/logistic_regression))
-- [Movie Rating: Naive Bayes](https://github.com/aparnack/data_science/tree/master/exercises/naive_bayes)
-- [Wine Quality Classification: Decision Tree, Random Forest, AdaBoost and Gradient Boosting](https://github.com/aparnack/data_science/blob/master/exercises/ensemble_methods/)
-- [Wine variety classification: Unsupervised Clustering](https://github.com/aparnack/data_science/tree/master/exercises/clustering)
+- [What are the housing prices in Boston?: Linear Regression](https://github.com/aparnack/data_science/tree/master/exercises/linear_regression)
+- [Guessing game from height and weight: Logistic Regression](https://github.com/aparnack/data_science/tree/master/exercises/logistic_regression)
+- [Rotten Tomatoes rating and sentiment analysis: Naive Bayes](https://github.com/aparnack/data_science/tree/master/exercises/naive_bayes)
+- [Learning trees and ensembles while having imaginary wine!: Decision Tree, Random Forest, AdaBoost and Gradient Boosting](https://github.com/aparnack/data_science/blob/master/exercises/ensemble_methods/)
+- [One more wine based problem, this time no one is watching!: Unsupervised Clustering](https://github.com/aparnack/data_science/tree/master/exercises/clustering)
 
 Inferential Statistics Examples:
 
