@@ -1,6 +1,5 @@
 This folder contains documents related to my Springboard Data Science Workshop's Capstone project. 
 
-There can be following documents and more:
 1. Capstone Project Ideas - planned to have 3, but there are 5
 2. Capstone Project initial proposal.
 3. Data Wrangling Report.
