@@ -5,7 +5,7 @@ This is the most important folder in the data_science repository.
 
 It contains non-trivial data science projects, ranging from intermediate level to tough ones.
 
-If you like to contact me for further discussions, please shoot me an email : aparnack@gmail.com
+If you like to contact me for further discussions, please shoot me an email : aparnashastrymls@gmail.com
 
 Feedback on projects is very much appreciated.
 
