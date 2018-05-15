@@ -25,6 +25,11 @@ Exploratory Data Analysis Examples:
 - [World Bank Projects: JSON file](https://github.com/aparnack/data_science/tree/master/exercises/data_wrangling_json)
 - [Mondial: XML File](https://github.com/aparnack/data_science/tree/master/exercises/data_wrangling_xml)
 
+Big Data Examples:
+
+- [Big Data Handling with Map Reduce](https://github.com/aparnack/data_science/tree/master/exercises/big_data_exercises)
+
+
 In addition, 
 
 + My Writings: 
