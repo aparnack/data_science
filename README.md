@@ -46,5 +46,5 @@ In addition,
   - Data Scientist Career Track from Datacamp
   - Prof Andrew Ng's Machine learning course and Deep Learning Specialization
 
-I appreciate feedback and comments, please contact me by writing to aparnashastrymls@gmail.com
-Are you a recruiter/hiring manager, like to know more about me? [My LinkedIn profile](https://www.linkedin.com/in/aparnacshastry/)
+I appreciate feedback and comments, please contact me by writing to aparnashastrymls@gmail.com       
+If you are looking for a problem solver for your business, please have a look at my profile and let's talk! [My LinkedIn profile](https://www.linkedin.com/in/aparnacshastry/)
