@@ -41,5 +41,10 @@ In addition,
 + [Study Notes](https://github.com/aparnack/data_science/tree/master/study_notes)
 + [Detailed Project Report Example](https://github.com/aparnack/data_science/blob/master/projects/springboard_capstone/documents/ProjectReport_BuildingPermit.pdf)
 
++ Certifications of various courses taken can be found [here](https://github.com/aparnack/data_science/tree/master/certifications)
+  - Springboard Bootcamp under a mentor
+  - Data Scientist Career Track from Datacamp
+  - Prof Andrew Ng's Machine learning course and Deep Learning Specialization
+
 I appreciate feedback and comments, please contact me by writing to aparnashastrymls@gmail.com
 Are you a recruiter/hiring manager, like to know more about me? [My LinkedIn profile](https://www.linkedin.com/in/aparnacshastry/)
